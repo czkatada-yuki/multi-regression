@@ -1,7 +1,8 @@
 # multi-regression (Test)
 Test App for multi-regression to analyze sample data
 
-# Installation
+# Instrunction
+After git clone this project, palce sample csv data (formatted in *.csv) at ```src/main/resources```
 ```
 git clone git@github.com:czkatada-yuki/multi-regression.git
 cd multi-regression
