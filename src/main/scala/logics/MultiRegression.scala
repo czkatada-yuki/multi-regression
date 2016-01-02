@@ -8,10 +8,4 @@ import utils._
  */
 
 object MultiRegression {
-  def main(args: Array[String]): Unit = {
-  }
-
-  def computeLinear(x: DenseMatrix[Double], y: DenseMatrix[Double]) = {
-
-  }
 }
